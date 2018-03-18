@@ -1,2 +1,2 @@
-# SurveyBot-MIL-
-Automated feedback analysis bot to help businesses get feedback from their customers and boost up their services.
+# Sentiment Analyser-
+A sentiment analysis model using Google and Amazon APIs. 
